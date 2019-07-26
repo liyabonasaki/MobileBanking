@@ -114,4 +114,4 @@ print("\t\t\tTime is : ",waqt.hour,":",waqt.minute,":",waqt.second)
 
 
 print(" ")
-print("\t\t\t\t\t@#@#@#@# Thank you for using Our Online Services ,  Mr Saki @#@#@#@#")
+print("\t\t\t\t\t@#@#@#@# Thank you for using Our Online Services  @#@#@#@#")
